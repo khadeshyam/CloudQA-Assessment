@@ -58,8 +58,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the GNU Affero General Public License (AGPL). See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+This project is licensed under the GNU Affero General Public License (AGPL). See the [LICENSE](https://github.com/khadeshyam/CloudQA-Assessment/blob/master/LICENSE) file for details.
