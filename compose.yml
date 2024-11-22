@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  app:
+    image: cloudqa-assessment-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./screenshots:/app/Screenshots
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
